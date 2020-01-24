@@ -1,5 +1,5 @@
 def my_collect(array)
-  if 
-  
+  if block_given? 
+    
   end
 end
