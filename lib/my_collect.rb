@@ -6,7 +6,5 @@ def my_collect(array)
       collection << yield array[i]
     end
     collection
-  else
-    puts"No block given."
   end
 end
